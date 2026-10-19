@@ -1,5 +1,11 @@
 # Changelog
 
+## [2026.10.16](https://github.com/jdx/mise/releases/tag/v2026.10.16) - 2026-10-19
+
+### 📦️ Dependency Updates
+
+- lock file maintenance by @renovate[bot] in [#14712](https://github.com/jdx/mise/pull/14712)
+
 ## [2026.10.15](https://github.com/jdx/mise/releases/tag/v2026.10.15) - 2026-10-19
 
 ### 🚀 Features
